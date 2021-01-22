@@ -1,2 +1,2 @@
 # 3d-printing
-All 3d-printing related stuff
+This repository contains configuration files for my 3D-printer
